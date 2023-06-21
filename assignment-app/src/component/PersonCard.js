@@ -4,7 +4,7 @@ const PersonCard = () => {
    const [persons, setPersons] = useState([{
     firstName: 'John',
     lastName: 'Doe',
-    age: 45,
+    age: 48,
     hairColor: 'Black'
   },
     {
